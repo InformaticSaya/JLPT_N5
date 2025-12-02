@@ -1,0 +1,15 @@
+Colab url
+; https://colab.research.google.com/drive/1xrihrhQQTXZgQqizJTYFcRIq49_fZJ4A
+
+xlsx
+; 바탕화면
+
+local
+; "C:\Users\lucyt\sample\src\App.js"
+
+url
+; https://informaticsaya.github.io/JLPT_N5/
+
+xlsx에서 입력하고 Colab으로 txt로 바꾼뒤 local에서 새로 반영하고 
+cd C:\Users\lucyt\sample
+npm run deploy
